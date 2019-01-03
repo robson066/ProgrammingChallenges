@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\robert.kaczmarek\\Desktop\\Priv\\Programming Challeges\\RPS\\RPS.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

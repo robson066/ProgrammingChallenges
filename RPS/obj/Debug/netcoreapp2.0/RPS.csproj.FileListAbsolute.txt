@@ -1,0 +1,10 @@
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\bin\Debug\netcoreapp2.0\RPS.deps.json
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\bin\Debug\netcoreapp2.0\RPS.runtimeconfig.json
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\bin\Debug\netcoreapp2.0\RPS.runtimeconfig.dev.json
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\bin\Debug\netcoreapp2.0\RPS.dll
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\bin\Debug\netcoreapp2.0\RPS.pdb
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\obj\Debug\netcoreapp2.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\obj\Debug\netcoreapp2.0\RPS.AssemblyInfoInputs.cache
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\obj\Debug\netcoreapp2.0\RPS.AssemblyInfo.cs
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\obj\Debug\netcoreapp2.0\RPS.dll
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\RPS\obj\Debug\netcoreapp2.0\RPS.pdb

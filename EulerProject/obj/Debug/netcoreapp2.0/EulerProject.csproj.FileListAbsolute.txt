@@ -1,0 +1,11 @@
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\bin\Debug\netcoreapp2.0\EulerProject.deps.json
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\bin\Debug\netcoreapp2.0\EulerProject.runtimeconfig.json
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\bin\Debug\netcoreapp2.0\EulerProject.runtimeconfig.dev.json
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\bin\Debug\netcoreapp2.0\EulerProject.dll
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\bin\Debug\netcoreapp2.0\EulerProject.pdb
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\obj\Debug\netcoreapp2.0\EulerProject.csprojResolveAssemblyReference.cache
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\obj\Debug\netcoreapp2.0\EulerProject.csproj.CoreCompileInputs.cache
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\obj\Debug\netcoreapp2.0\EulerProject.AssemblyInfoInputs.cache
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\obj\Debug\netcoreapp2.0\EulerProject.AssemblyInfo.cs
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\obj\Debug\netcoreapp2.0\EulerProject.dll
+C:\Users\robert.kaczmarek\Desktop\Priv\Programming Challeges\EulerProject\obj\Debug\netcoreapp2.0\EulerProject.pdb
